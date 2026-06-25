@@ -1,5 +1,5 @@
 [README_Model_SVM.md](https://github.com/user-attachments/files/29340314/README_Model_SVM.md)
-# Model SVM Test
+# Model SVM
 
 Support Vector Regression project using the red wine quality dataset. The goal is to predict wine quality from physicochemical variables using an SVR model and hyperparameter tuning.
 
